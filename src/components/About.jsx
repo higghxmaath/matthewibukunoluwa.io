@@ -34,7 +34,7 @@ export default function About() {
             </h2>
             <div className="mt-8 space-y-4 text-base leading-relaxed text-[var(--text-muted)]">
               <p>
-                I&apos;m Matthew, a Lagos-based fullstack developer who obsesses over
+                I&apos;m Matthew, a fullstack developer who obsesses over
                 clean code and even cleaner UIs. I&apos;ve shipped products ranging from
                 e-commerce platforms to SaaS tools, working across the full stack from
                 database schema to pixel-perfect frontend.
@@ -67,7 +67,7 @@ export default function About() {
 
             <div className="flex items-center rounded-2xl border border-white/5 bg-[var(--bg-dark)] p-5">
               <p className="text-sm font-medium">
-                Based in Lagos <span aria-label="Nigeria">🇳🇬</span>
+                Nigeria <span aria-label="Nigeria">🇳🇬</span>
               </p>
             </div>
 
