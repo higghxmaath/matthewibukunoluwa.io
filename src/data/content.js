@@ -7,6 +7,8 @@ export const site = {
   title: 'Full-Stack Web Developer',
   email: 'ayanmattex@gmail.com',
   phone: '+2348024948076',
+  whatsapp:
+    'https://wa.me/2348024948076?text=Hi%20Matthew%2C%20I%27d%20like%20to%20discuss%20a%20project.',
   website: 'https://matthewibukunoluwa-io.vercel.app',
   github: 'https://github.com/higghxmaath',
   formspree: 'https://formspree.io/f/mdawwray',
